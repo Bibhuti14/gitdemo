@@ -1,0 +1,3 @@
+hellow students...
+this is our 1st git class
+and this is git demo
